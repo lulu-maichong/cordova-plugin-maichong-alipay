@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-maichong-alipay",
+  "version": "0.0.1",
+  "description": "cordova plugin for alipay sdk",
+  "cordova": {
+    "id": "cordova-plugin-maichong-alipay",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "alipay",
+    "cordova-plugin-maichong-alipay"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulu-maichong/cordova-plugin-maichong-alipay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lulu-maichong/cordova-plugin-maichong-alipay/issues"
+  },
+  "homepage": "https://github.com/lulu-maichong/cordova-plugin-maichong-alipay#readme",
+  "author": "maichong",
+  "license": "ISC"
+}
